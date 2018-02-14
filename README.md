@@ -33,7 +33,7 @@ Não há banco de dados, está sendo utilizado o banco em memoria.
 # Conclusão
 1. Qual foi a parte mais difícil na solução do desafio?
 
-Resp. Na verdade a parte mais dificil, vou ver que ainda preciso aprender alguns conceitos da linguagem. Pois foquei muito na questão DevOps, compilar, entender os problemas e preparar ambientes.
+Resp. Na verdade a parte mais dificil, foi ver que ainda preciso aprender alguns conceitos da linguagem. Pois foquei muito na questão DevOps, isto é,  compilar, entender os problemas e preparar ambientes.
 
 E com isso não consegui avançar muito no desafio, pois básicamente fiz somente o end-point de inclusão.
 
